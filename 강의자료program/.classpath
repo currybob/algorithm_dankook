@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="lec1-1/src"/>
+	<classpathentry kind="src" path="lec10-1/src"/>
+	<classpathentry kind="src" path="lec11-1/src"/>
+	<classpathentry kind="src" path="lec11-2/src"/>
+	<classpathentry kind="src" path="lec12-1/src"/>
+	<classpathentry kind="src" path="lec2-1/src"/>
+	<classpathentry kind="src" path="lec3-1/src"/>
+	<classpathentry kind="src" path="lec3-2/src"/>
+	<classpathentry kind="src" path="lec3-3/src"/>
+	<classpathentry kind="src" path="lec3-4/src"/>
+	<classpathentry kind="src" path="lec3-5/src"/>
+	<classpathentry kind="src" path="lec4-1/src"/>
+	<classpathentry kind="src" path="lec4-2/src"/>
+	<classpathentry kind="src" path="lec4-3/src"/>
+	<classpathentry kind="src" path="lec4-4/src"/>
+	<classpathentry kind="src" path="lec4-5/src"/>
+	<classpathentry kind="src" path="lec5-1/src"/>
+	<classpathentry kind="src" path="lec5-2/src"/>
+	<classpathentry kind="src" path="lec5-3/src"/>
+	<classpathentry kind="src" path="lec6-1/src"/>
+	<classpathentry kind="src" path="lec7-1/src"/>
+	<classpathentry kind="src" path="lec7-2/src"/>
+	<classpathentry kind="src" path="lec8-1/src"/>
+	<classpathentry kind="src" path="puzzle15/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="lec1-1/bin"/>
+</classpath>
